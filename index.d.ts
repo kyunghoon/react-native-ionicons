@@ -1,5 +1,5 @@
 declare module 'react-native-ionicons' {
-  import React from 'react'
+  import * as React from 'react'
   import { TextProps } from 'react-native'
 
   export type IconProps = TextProps & {
